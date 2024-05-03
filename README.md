@@ -27,3 +27,7 @@ and then as a dependency for the Package target utilizing OpenSSL:
     ]
 ),
 ```
+
+### Authors
+
+[Marcin Krzyżanowski](https://krzyzanowskim.com)
