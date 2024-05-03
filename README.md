@@ -23,7 +23,7 @@ and then as a dependency for the Package target utilizing OpenSSL:
 .target(
     name: "MyApp",
     dependencies: [
-        .product(name: "OpenSSL", package: "OpenSSL-Package")
+        .product(name: "OpenSSL", package: "OpenSSL")
     ]
 ),
 ```
