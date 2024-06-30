@@ -13,7 +13,7 @@ The binary is built as part of the main repository: https://github.com/krzyzanow
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/krzyzanowskim/OpenSSL-Package.git", from: "3.1.5005")
+    .package(url: "https://github.com/krzyzanowskim/OpenSSL-Package.git", from: "3.1.5006")
 ]
 ```
 
