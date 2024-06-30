@@ -8,6 +8,7 @@ let package = Package(
         .iOS(.v12),
         .macOS(.v10_15),
         .tvOS(.v12),
+        .watchOS(.v8),
         .custom("xros", versionString: "1.0")
     ],
     products: [
@@ -18,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OpenSSL",
-            url: "https://github.com/krzyzanowskim/OpenSSL/releases/download/3.1.5004/OpenSSL.xcframework.zip",
-            checksum: "9b9f5579cd7e1e3c22cae3d63b1647f3f7358367ae39515904a3d6fb083d0db3"
+            url: "https://github.com/krzyzanowskim/OpenSSL/releases/download/3.1.5005/OpenSSL.xcframework.zip",
+            checksum: "2e97909b15089dfb257b245dcabc83cc132b19684792b4c25995e9576e4440ce"
         )
     ]
 )
