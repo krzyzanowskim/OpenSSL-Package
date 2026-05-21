@@ -31,3 +31,7 @@ and then as a dependency for the Package target utilizing OpenSSL:
 ### Authors
 
 [Marcin Krzyżanowski](https://krzyzanowskim.com)
+
+### License
+
+OpenSSL-Package distributes OpenSSL 3.x binaries under the Apache License, Version 2.0. See [LICENSE](LICENSE).
